@@ -8,6 +8,9 @@ dependencies = [
     "alpaca-trade-api>=3.2.0",
     "alpha-vantage>=3.0.0",
     "beautifulsoup4>=4.13.3",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
     "streamlit>=1.44.1",
     "yfinance>=0.2.55",
 ]
