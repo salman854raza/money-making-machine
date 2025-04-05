@@ -1,0 +1,13 @@
+[project]
+name = "money-making-machine"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "alpaca-trade-api>=3.2.0",
+    "alpha-vantage>=3.0.0",
+    "beautifulsoup4>=4.13.3",
+    "streamlit>=1.44.1",
+    "yfinance>=0.2.55",
+]
